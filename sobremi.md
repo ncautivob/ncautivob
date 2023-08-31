@@ -1,7 +1,7 @@
-- 👋 Hola, soy @ncautivob
+- 👋 Hola, soy Naomi (ella)
 - 👀 Me interesa Data Science, UX/UI, Interacción Humano-Máquina.
 - 🌱 Estudiante de Ing. Civil en Computación!
-
+  
 
 <!---
 ncautivob/ncautivob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
