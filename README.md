@@ -2,6 +2,7 @@
 ---- 
 
 Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 I'm Naomi (she/her), a Computer Science student based in Chile :chile: who likes Statistics :chart_with_upwards_trend: and Specialty Coffee.:coffee: ✨
 
  💬 Interests
