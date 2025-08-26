@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**ncautivob/ncautivob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+---- 
+Hello there! 👋
+I'm Naomi (she/her), a Computer Engineering student based in Chile :chile: who likes Statistics :chart_with_upwards_trend: and Specialty Coffee.:coffee: ✨
 
-Here are some ideas to get you started:
+ 💬 Interests
+---
+Data Science mainly Natural Language Processing and Statistical Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Social media
+---
+
+> Find me on [LinkedIn](https://www.linkedin.com/in/ncautivob/) :link:.
+
