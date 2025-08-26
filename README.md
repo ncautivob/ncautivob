@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2000F7C2&multiline=true&width=435&height=100&lines=+Naomi+Cautivo+B.;Computer+Science+Student+%40+UChile)](https://git.io/typing-svg)
 ---- 
+
 Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 I'm Naomi (she/her), a Computer Science student based in Chile :chile: who likes Statistics :chart_with_upwards_trend: and Specialty Coffee.:coffee: ✨
 
-
-
  💬 Interests
 ---
+
 Data Science mainly Natural Language Processing, Statistical Learning and Visualization.
 
 
@@ -17,7 +17,9 @@ Stack
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
     ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 - **Libraries/Frameworks**
+
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
     ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
     ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
